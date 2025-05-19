@@ -337,7 +337,7 @@ header button:hover::after {
 .home-img {
   position: absolute;
   top: 0;
-  right: -10%;
+  right: -3%;
   height: 100%;
   width: 60%;
   object-fit: cover;
